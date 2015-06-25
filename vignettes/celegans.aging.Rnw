@@ -177,9 +177,12 @@ fObj.sann <- optimize_filter(fObj.grid, prj, fdr.max=0.01,
 prj <- apply_filter(prj, fObj.sann)
 @
 
+\subsection{Data download}
 The peptide-to-spectrum matches were produced by
 \href{http://omics.pnl.gov/software/ms-gf}{MS-GF+} MS/MS search
 engine \cite{Kim2014}. mzIdentML files were downloaded directly from PRIDE.
+
+\subsection{Filtering}
 Initial data filtering to obtain confident identifications used two criteria:
 \begin{itemize}
     \item $msmsScore = -log10(`MS-GF:SpecEValue`)$
