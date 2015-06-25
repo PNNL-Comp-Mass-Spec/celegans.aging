@@ -78,8 +78,6 @@ in total $8 \times 5 = 40$ datasets (Table \ref{tab:big}).\\
 Below we will focus on comparing 5 young vs 5 old worm culture replicates with normal-living genotype (Mut: \textit{glp-4(bn2ts) daf-16(mgDf50); daf-2(e1370)}) grown with no dietary restriction (Diet: fully fed). The dataset names along with
 PRIDE assay IDs shown in Table \ref{tab:meta}.
 \\
-\warning{perhaps I want to insert a study design figure here.  not 100\% sure yet}
-\\
 Here we applied spectral counting approach to estimate relative protein
 abundances.  Further we explored pathways enriched amongst proteins
 statistically significanly decreased during aging.
